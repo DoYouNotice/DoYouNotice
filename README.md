@@ -16,7 +16,8 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.pxOwCEFDXs8Xz8uUWn_LPAHaHb%26pid%3DApi&f=1" alt="Signal" style="max-width: 100%;" height="42">
 </a>
 
-
+<a href="https://discord.com/users/463088962710405152">
+<img src="https://camo.githubusercontent.com/2d1e6b81903abf8bbbd9667a610210376befe95ddc5d7d9ad8b6fdadaed1c4d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3733384144413f7374796c653d666c61742d737175617265266c6f676f3d446973636f7264266c6f676f436f6c6f723d463446344634" alt="Discord" style="max-width: 100%;" height="42">
 
 <!---
 DoYouNotice/DoYouNotice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
