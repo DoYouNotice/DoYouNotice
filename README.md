@@ -22,6 +22,26 @@
 
 <a href="https://discord.com/users/463088962710405152">
 <img src="https://camo.githubusercontent.com/2d1e6b81903abf8bbbd9667a610210376befe95ddc5d7d9ad8b6fdadaed1c4d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3733384144413f7374796c653d666c61742d737175617265266c6f676f3d446973636f7264266c6f676f436f6c6f723d463446344634" alt="Discord" style="max-width: 100%;" height="42">
+</a>
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconattitude.com%2Ficons%2Fopen_icon_library%2Fxfce4-style%2Fpng%2F256%2Fapplication-pgp.png&f=1&nofb=1" alt="PGP" style="max-width: 100%;" height="42">-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYxDUyBYJKwYBBAHaRw8BAQdAhEM6t04KMaGsb6Z/+kSeQIo/7NDl3TszUEQ0
+nzAdoJ60C0RvWW91Tm90aWNliJEEExYKADkCGwMFCQPDZlgWIQSN81Ye+LvgE/QH
+vQ4F4oSs/zeglAUCYxDbYwULBwkDAgUVCAoCAwMWAQICHgQACgkQBeKErP83oJQa
+QgEA2Xt+OJPbNv8CrNIGdNGlV/94n4pfekQjTYZI5Ju4y8cBAOrqa96cmxXBAJAW
+fyDBpcNlha5wyuLYpgrljEqO1rYJuDgEYxDUyBIKKwYBBAGXVQEFAQEHQBwM3GNh
+CtQuXDp8ykAmq3o/l9H1Hf7n5s0S5UtUSDpEAwEIB4h+BBgWCgAmFiEEjfNWHvi7
+4BP0B70OBeKErP83oJQFAmMQ1MgCGwwFCQPDZlgACgkQBeKErP83oJQqMwD/SfgG
+LilvjkmKPp+sM7NZ7tJ8icovBi0ASAvF3N+f2dIA+wQEDpSqQ2gS1ChP9P9G53CF
+FoMY6me68U3nHiT8gmMB
+=npMi
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+
+
 
 <!---
 DoYouNotice/DoYouNotice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
